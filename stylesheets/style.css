@@ -1,0 +1,33 @@
+body{
+	background-color: #CFD8DC;
+	margin: 15px;
+}
+
+h1{
+	text-align: center;
+}
+
+#assig{
+	font-weight: bold;
+}
+
+.Module{
+	font-weight: normal;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #3949AB;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}

@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+}
+
+#header-nav {
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 3px solid black;
+  min-height: 70px;
+ }
+
+#navbar-title{
+	margin-top: 15px;
+}
+
+#menu{
+	margin-bottom: 35px;
+}
+.item{
+  padding-top: 10px;
+}
+.section{
+	background-color: #E0E0E0;      
+  position: relative;    
+  min-height: 10px;    
+  margin-right: 15px;    
+  margin-left: 15px;    
+  margin-bottom: 15px;
+  padding: 0px 10px 10px 10px;
+ }
+button.navbar-toggle.collapsed{
+  border-color: #000000;
+  margin-top:15px;
+}
+
+.nI{
+  font-size: 1.25em;
+}
